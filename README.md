@@ -1,6 +1,7 @@
 ### Hi, my name is Davi Dangel Ribeiro
 
 - 👋 Hi, My name is Davi Dangel
+I'm a BackEnd developer
 - :computer: I am used to working with these technologies...<br/>
  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)
  ![SQL Server](	https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
