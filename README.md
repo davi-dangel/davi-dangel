@@ -15,7 +15,6 @@
 
 - :floppy_disk: And I am very interested in these others<br/> 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 - 👀 My hobbies are ...<br/> 
 :ice_skate: rollerblading<br/> 
