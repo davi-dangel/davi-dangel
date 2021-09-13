@@ -1,5 +1,10 @@
 ### Hi, my name is Davi Dangel Ribeiro
-
+<div>
+  <a href="https://github.com/davi-dangel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davi-dangel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-dangel&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
 I'm a BackEnd developer
 - :computer: I am used to working with these technologies...<br/>
  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)
