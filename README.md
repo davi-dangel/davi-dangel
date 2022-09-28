@@ -21,12 +21,6 @@ I'm a BackEnd developer
 - :floppy_disk: And I am very interested in these others<br/> 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-- 👀 My hobbies are ...<br/> 
-:ice_skate: rollerblading<br/> 
-:soccer: Watch soccer<br/> 
-:books: Reading<br/> 
-:stuffed_flatbread: Cooking
-
 - 📫 How to reach me ...<br/> 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidangelribeiro/)
  [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:davi.dangel@outlook.com)
